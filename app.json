@@ -1,0 +1,14 @@
+  "name": "humansystech",
+  "description": "Welcome to Humansys Technologies Website",
+  "keywords": [
+    "election",
+    "go",
+    "sample",
+    "poll"
+    "humansystech"
+    "U.P."
+  ],
+  "image": "heroku/go:1.6",
+  "mount_dir": "src/github.com/Baligul/humansystech",
+  "website": "humansystech.com",
+  "repository": "https://github.com/Baligul/humansystech"
