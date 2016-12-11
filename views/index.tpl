@@ -159,7 +159,6 @@ your focus where it needs to be</h2>
                 <div class="col-lg-4 text-center">
                     <i class="fa fa-envelope-o fa-3x sr-contact"></i>
                     <p><a href="mailto:your-email@your-domain.com">info@humansystech.com</a></p>
-                    <p><a href="mailto:your-email@your-domain.com">shariq@humansystech.com</a></p>
                 </div>
             </div>
         </div>
