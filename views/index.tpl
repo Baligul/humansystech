@@ -11,8 +11,8 @@
 
     <title>Humansys Technologies</title>
 
-    <!-- Bootstrap Core CSS -->
-    <link href="/static/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Bootstrap Core CSS --> 
+    <link href="/static/bootstrap/css/bootstrap.css" rel="stylesheet">
 
     <!-- Custom Fonts -->
     <link href="/static/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
@@ -43,7 +43,7 @@
                 <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
                     <span class="sr-only">Toggle navigation</span> Menu <i class="fa fa-bars"></i>
                 </button>
-                <a class="navbar-brand page-scroll" href="#page-top">Humansys Technologies</a>
+                <a class="navbar-brand page-scroll" href="#page-top"><img src="/static/img/logo.png" alt="logo"></a>
             </div>
 
             <!-- Collect the nav links, forms, and other content for toggling -->

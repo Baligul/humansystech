@@ -410,3 +410,15 @@ img::-moz-selection {
 body {
   webkit-tap-highlight-color: #222222;
 }
+
+.navbar-brand {
+    float: left;
+    height: auto;
+    padding: 3px 15px;
+    font-size: 18px;
+    line-height: 20px;
+}
+
+.navbar-nav {
+    margin: 22.5px 27px;
+}
